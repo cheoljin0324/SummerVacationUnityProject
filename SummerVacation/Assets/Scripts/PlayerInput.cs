@@ -29,4 +29,6 @@ public class PlayerInput : MonoBehaviour
         //Reload
         reload = Input.GetButton(reloadButton);
     }
+
+
 }
